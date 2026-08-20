@@ -24,3 +24,4 @@ def db_test():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5050)
+# CI/CD activado Thu Aug 20 22:31:40 UTC 2026
